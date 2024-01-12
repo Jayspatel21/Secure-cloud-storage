@@ -4,13 +4,13 @@ import "firebase/firestore";
 import "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_apiKey,
-  authDomain: process.env.REACT_APP_authDomain,
-  projectId: process.env.REACT_APP_projectId,
-  storageBucket: process.env.REACT_APP_storageBucket,
-  messagingSenderId: process.env.REACT_APP_messagingSenderId,
-  appId: process.env.REACT_APP_appId,
-  measurementId: process.env.REACT_APP_measurementId,
+  apiKey: "AIzaSyCRBNPQ-JX_e3t4SoHAr5R-VqmxjtV9XQw",
+  authDomain: "cloud-storage-ea4a6.firebaseapp.com",
+  projectId: "cloud-storage-ea4a6",
+  storageBucket: "cloud-storage-ea4a6.appspot.com",
+  messagingSenderId: "219290622483",
+  appId: "1:219290622483:web:b5d2dacf39b7641eb23de6",
+  measurementId: "G-1BQFP2B5ZJ"
 };
 
 // INITIALISE FIREBASE INSTANCES
